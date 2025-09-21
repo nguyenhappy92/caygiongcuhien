@@ -50,10 +50,9 @@ Với hơn 15 năm kinh nghiệm trong lĩnh vực cây giống, Cây Giống C�
 
 ## ✨ Đặc điểm nổi bật
 
-- ✅ Giống cây chất lượng cao, tỷ lệ sống 95%+
-- ✅ Giao hàng toàn quốc, đóng gói cẩn thận
+- ✅ Giống cây chất lượng cao, tỷ lệ sống 99%+
+- ✅ Giao hàng tại Sơn Mỹ và các tỉnh thành khác
 - ✅ Tư vấn kỹ thuật trồng miễn phí
-- ✅ Bảo hành chất lượng 6 tháng
 
 ## 📞 Liên hệ
 
@@ -131,4 +130,4 @@ Website được thiết kế responsive, tương thích với:
 
 ## 📄 License
 
-© 2024 Cây Giống Cư Hiền. Tất cả quyền được bảo lưu.
+© 1999 Cây Giống Cư Hiền. Tất cả quyền được bảo lưu.
