@@ -565,6 +565,16 @@ body {
     text-decoration: underline;
 }
 
+/* Additional styles for address */
+.text-sm {
+    font-size: 0.875rem;
+}
+
+.text-gray-500 {
+    color: #6b7280;
+    font-style: italic;
+}
+
 /* Contact Form */
 .contact-form {
     background: #f9fafb;

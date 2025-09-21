@@ -22,10 +22,10 @@ Với hơn 15 năm kinh nghiệm trong lĩnh vực cây giống, Cây Giống C�
 
 ## 📞 Liên hệ
 
-- **Địa chỉ**: Xã Cư Hiền, Huyện Cư M'gar, Tỉnh Đắk Lắk
+- **Địa chỉ**: Số 3, đường 12, xã Sơn Mỹ, tỉnh Lâm Đồng (Cũ xã Sơn Mỹ, huyện Hàm Tân, tỉnh Bình Thuận)
 - **Điện thoại**: 
-  - 0123.456.789
-  - 0987.654.321
+  - 0979.446.442
+  - 0364.059.997
 - **Email**: info@caygiongcuhien.com
 - **Website**: [caygiongcuhien.com](https://caygiongcuhien.com)
 - **Giờ làm việc**: Thứ 2 - Chủ nhật: 8:00 - 18:00
@@ -72,10 +72,10 @@ Website này được deploy thủ công lên GitHub Pages.
 
 ## 🛠 Công nghệ sử dụng
 
-- **HTML5**: Semantic markup
-- **CSS3**: Modern styling với Flexbox & Grid
-- **JavaScript**: Vanilla JS cho tương tác
-- **GitHub Pages**: Static site hosting (manual deployment)
+- **HTML5**: Semantic markup cho cấu trúc trang
+- **CSS3**: Modern styling với Flexbox & Grid, responsive design
+- **JavaScript**: Vanilla JS cho tương tác và UX
+- **GitHub Pages**: Static site hosting miễn phí
 
 ## 📱 Responsive Design
 
