@@ -172,7 +172,7 @@ body {
 
 .contact-info {
     display: flex;
-    gap: 24px;
+    gap: 12px;
 }
 
 .contact-item {
