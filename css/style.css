@@ -925,6 +925,26 @@ body {
     
     .hero-buttons {
         flex-direction: column;
+        gap: 12px;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
+    .hero-buttons .btn {
+        width: 100%;
+        padding: 12px 16px;
+        font-size: 0.9rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .hero-buttons .btn-primary {
+        order: 1;
+    }
+    
+    .hero-buttons .btn-secondary {
+        order: 2;
     }
 }
 
@@ -1039,5 +1059,40 @@ body {
     
     .map-wrapper iframe {
         height: 300px;
+    }
+}
+
+/* Mobile button text optimization */
+@media (max-width: 480px) {
+    .hero-buttons {
+        max-width: 280px;
+        gap: 10px;
+    }
+    
+    .hero-buttons .btn {
+        font-size: 0.85rem;
+        padding: 10px 16px;
+        border-radius: 6px;
+        font-weight: 500;
+        min-width: 80px;
+    }
+    
+    .btn-text-full {
+        display: none;
+    }
+    
+    .btn-text-short {
+        display: inline;
+    }
+}
+
+/* Desktop button text */
+@media (min-width: 481px) {
+    .btn-text-full {
+        display: inline;
+    }
+    
+    .btn-text-short {
+        display: none;
     }
 }
