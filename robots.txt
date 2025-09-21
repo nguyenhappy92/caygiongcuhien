@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://caygiongcuhien.com/sitemap.xml
+
+# Disallow common non-content files
+Disallow: /*.json$
+Disallow: /*.yml$
+Disallow: /*.yaml$
+Disallow: /.*
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.github/
