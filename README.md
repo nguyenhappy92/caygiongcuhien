@@ -1,17 +1,52 @@
 # Cây Giống Cư Hiền
 
-Website chính thức của Cây Giống Cư Hiền - Chuyên cung cấp giống keo, bạch đàn, điều và các loại cây giống chất lượng cao.
+Website chính thức của Cây Giống Cư Hiền - Chuyên cung cấp hơn 50 loại cây giống chất lượng cao: keo lá tràm, bạch đàn, điều, gỗ quý, tràm, cây bóng mát, dược liệu và cây ăn quả.
 
 ## 🌱 Về chúng tôi
 
-Với hơn 15 năm kinh nghiệm trong lĩnh vực cây giống, Cây Giống Cư Hiền đã và đang cung cấp các loại cây giống chất lượng cao cho hàng ngàn khách hàng trên toàn quốc.
+Với hơn 15 năm kinh nghiệm trong lĩnh vực cây giống, Cây Giống Cư Hiền đã và đang cung cấp hơn 50 loại cây giống chất lượng cao cho hàng ngàn khách hàng trên toàn quốc. Từ cây lấy gỗ như keo lá tràm, bạch đàn đến cây ăn quả, gỗ quý, dược liệu - chúng tôi đáp ứng mọi nhu cầu trồng trọt.
 
-## 🌿 Sản phẩm chính
+## 🌿 8 Danh mục sản phẩm chính
 
-- **Giống Keo**: Keo lai ACA 1, ACA 2, U6, U2, Keo tái sinh tự nhiên
-- **Giống Bạch Đàn**: Bạch đàn U6, U1, DH 32-29, uro x cam
-- **Giống Điều**: Điều BR 1, BR 2, DK 1, DK 2, BPP ghép
-- **Cây giống khác**: Tràm, melaleuca, sao đen, phi lao, cây bóng mát
+### 1. **Keo Lá Tràm**: 
+- Keo lai ACA 1, ACA 2, U6, U2
+- Keo tái sinh tự nhiên
+- Acacia mangium
+
+### 2. **Bạch Đàn**: 
+- Bạch đàn U6, U1, DH 32-29
+- Bạch đàn uro x cam, urophylla
+
+### 3. **Điều**: 
+- Điều BR 1, BR 2, DK 1, DK 2
+- Điều BPP ghép, VN1, VN2
+
+### 4. **Cây Lấy Gỗ Quý**:
+- Sao đen (Hopea odorata)
+- Căm xe (Xylia xylocarpa)  
+- Lim xanh (Erythrophleum fordii)
+- Gõ đỏ (Afzelia xylocarpa)
+
+### 5. **Tràm & Melaleuca**:
+- Tràm trà (Melaleuca alternifolia)
+- Tràm bông vàng, U Minh, gió
+
+### 6. **Cây Bóng Mát & Cảnh Quan**:
+- Phi lao (Casuarina)
+- Me tây, bàng lá nhỏ
+- Sấu (Dracontomelon)
+
+### 7. **Cây Dược Liệu & Đặc Sản**:
+- Đàn hương (Santalum album)
+- Trầm hương (Aquilaria)
+- Sa nhân (Amomum)
+- Hoàng đằng (Fibraurea)
+
+### 8. **Cây Ăn Quả & Nông Nghiệp**:
+- Xoài cát (Mangifera indica)
+- Nhãn long (Dimocarpus longan)
+- Vải thiều (Litchi chinensis)
+- Bưởi da xanh
 
 ## ✨ Đặc điểm nổi bật
 
