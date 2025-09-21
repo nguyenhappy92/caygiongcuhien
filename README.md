@@ -32,30 +32,50 @@ Với hơn 15 năm kinh nghiệm trong lĩnh vực cây giống, Cây Giống C�
 
 ## 🚀 Deployment
 
-Website này được deploy tự động lên GitHub Pages khi có commit mới vào branch `main`.
+Website này được deploy thủ công lên GitHub Pages.
 
 ### Hướng dẫn deploy:
 
-1. **Bật GitHub Pages**:
-   - Vào Settings của repository
+1. **Push code lên GitHub**:
+   ```bash
+   git add .
+   git commit -m "Add website files"
+   git push origin main
+   ```
+
+2. **Bật GitHub Pages**:
+   - Vào Settings của repository trên GitHub
    - Scroll xuống phần "Pages"
-   - Chọn Source: "GitHub Actions"
+   - Chọn Source: "Deploy from a branch"
+   - Chọn Branch: "main"
+   - Chọn Folder: "/ (root)"
+   - Click "Save"
 
-2. **Tự động deploy**:
-   - Mỗi khi push code lên branch `main`, GitHub Actions sẽ tự động deploy website
-   - Xem quá trình deploy tại tab "Actions"
+3. **Cấu hình Custom Domain**:
+   - Trong phần "Custom domain", nhập: `caygiongcuhien.com`
+   - Click "Save"
+   - Đợi GitHub verify domain
 
-3. **Truy cập website**:
-   - Sau khi deploy thành công, website sẽ có sẵn tại: `https://nguyenhappy92.github.io/caygiongcuhien/`
-   - Hoặc custom domain: `https://caygiongcuhien.com` (nếu đã cấu hình)
+4. **Cấu hình DNS tại nhà cung cấp domain**:
+   - Tạo CNAME record: `www` → `nguyenhappy92.github.io`
+   - Tạo A records cho apex domain:
+     ```
+     185.199.108.153
+     185.199.109.153
+     185.199.110.153
+     185.199.111.153
+     ```
+
+5. **Truy cập website**:
+   - GitHub Pages: `https://nguyenhappy92.github.io/caygiongcuhien/`
+   - Custom domain: `https://caygiongcuhien.com` (sau khi cấu hình DNS)
 
 ## 🛠 Công nghệ sử dụng
 
 - **HTML5**: Semantic markup
 - **CSS3**: Modern styling với Flexbox & Grid
 - **JavaScript**: Vanilla JS cho tương tác
-- **GitHub Pages**: Static site hosting
-- **GitHub Actions**: Tự động deployment
+- **GitHub Pages**: Static site hosting (manual deployment)
 
 ## 📱 Responsive Design
 
