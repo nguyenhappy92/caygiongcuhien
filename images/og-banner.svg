@@ -1,0 +1,44 @@
+<!-- Logo banner cho social media 1200x630 -->
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f0fdf4;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#fef9c3;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="1200" height="630" fill="url(#bg)"/>
+    
+    <!-- Logo cây -->
+    <g transform="translate(300, 180)">
+        <!-- Thân cây -->
+        <rect x="70" y="80" width="20" height="90" fill="#8B4513" rx="10"/>
+        
+        <!-- Lá cây -->
+        <ellipse cx="45" cy="65" rx="40" ry="20" fill="#22c55e" transform="rotate(-25 45 65)"/>
+        <ellipse cx="125" cy="65" rx="40" ry="20" fill="#16a34a" transform="rotate(25 125 65)"/>
+        <ellipse cx="80" cy="50" rx="30" ry="15" fill="#15803d"/>
+        
+        <!-- Lá nhỏ -->
+        <ellipse cx="60" cy="40" rx="15" ry="8" fill="#22c55e" transform="rotate(-15 60 40)"/>
+        <ellipse cx="100" cy="40" rx="15" ry="8" fill="#16a34a" transform="rotate(15 100 40)"/>
+        
+        <!-- Chồi non -->
+        <circle cx="80" cy="30" r="8" fill="#86efac"/>
+        <circle cx="80" cy="20" r="5" fill="#bbf7d0"/>
+        
+        <!-- Rễ cây -->
+        <path d="M70 170 C60 180, 50 190, 40 200" stroke="#8B4513" stroke-width="6" fill="none"/>
+        <path d="M90 170 C100 180, 110 190, 120 200" stroke="#8B4513" stroke-width="6" fill="none"/>
+        
+        <!-- Đất -->
+        <ellipse cx="80" cy="200" rx="50" ry="10" fill="#a3a3a3"/>
+        <ellipse cx="80" cy="195" rx="45" ry="8" fill="#d4d4d8"/>
+    </g>
+    
+    <!-- Text -->
+    <text x="500" y="280" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#1f2937">Cây Giống Cư Hiền</text>
+    <text x="500" y="340" font-family="Arial, sans-serif" font-size="36" fill="#22c55e">Chuyên cung cấp giống keo, bạch đàn, điều</text>
+    <text x="500" y="390" font-family="Arial, sans-serif" font-size="28" fill="#6b7280">Chất lượng cao - Uy tín - Tận tâm</text>
+    <text x="500" y="450" font-family="Arial, sans-serif" font-size="24" fill="#374151">📞 0979.446.442 | 🌐 caygiongcuhien.com</text>
+</svg>

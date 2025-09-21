@@ -98,12 +98,32 @@ body {
 .logo-icon {
     width: 48px;
     height: 48px;
-    background: linear-gradient(135deg, #22c55e, #16a34a);
+    background: linear-gradient(135deg, #f0fdf4, #dcfce7);
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 24px;
+    border: 2px solid #22c55e;
+    box-shadow: 0 2px 8px rgba(34, 197, 94, 0.2);
+}
+
+.logo-icon svg {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.3s ease;
+}
+
+.logo:hover .logo-icon svg {
+    transform: scale(1.1) rotate(5deg);
+}
+
+.hero-icon svg {
+    transition: transform 0.3s ease;
+}
+
+.hero-card:hover .hero-icon svg {
+    transform: scale(1.05) rotate(-2deg);
 }
 
 .logo-text h1 {
@@ -264,13 +284,15 @@ body {
 .hero-icon {
     width: 80px;
     height: 80px;
-    background: #22c55e;
+    background: linear-gradient(135deg, #f0fdf4, #dcfce7);
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 40px;
     margin: 0 auto 24px;
+    border: 3px solid #22c55e;
+    box-shadow: 0 4px 16px rgba(34, 197, 94, 0.3);
 }
 
 .hero-card h3 {
